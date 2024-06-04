@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: fg8h5i2xk-nodejs-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/fg8h5i2xk-nodejs
